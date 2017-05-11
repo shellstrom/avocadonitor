@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Avocadonitor</string>
+
+    <string-array name="tree_sayings">
+        <item>Stretching roots</item>
+        <item>Flexing leaves</item>
+        <item>Drinking water</item>
+        <item>Reaching for the sky</item>
+        <item>Aiming high</item>
+        <item>Fixing roots</item>
+        <item>Burrowing</item>
+        <item>Eating carb(on dioxide)s</item>
+        <item>Venting oxygen</item>
+        <item>Getting higher</item>
+        <item>The sky is the limit</item>
+    </string-array>
+</resources>
