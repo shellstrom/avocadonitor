@@ -18,4 +18,4 @@ I wanted to see whether I could do it. And I had some grief that I'd like you to
 * Tweets are being sent only when a certain hour of the day is detected.
 * Per default images are saved to a samba share every hour.
 
-Life is awesome
+Life is super awesome
