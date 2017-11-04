@@ -17,3 +17,5 @@ I wanted to see whether I could do it. And I had some grief that I'd like you to
 * You have to create your own Twitter account and [app](http://apps.twitter.com) with at least Read and Write permissions, and tie the consumer keys and access tokens to the app.
 * Tweets are being sent only when a certain hour of the day is detected.
 * Per default images are saved to a samba share every hour.
+
+Life is awesome
